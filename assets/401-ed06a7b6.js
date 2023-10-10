@@ -1,1 +1,0 @@
-import{_ as o}from"./AppLayoutStatus-fc4cfd2c.js";import{o as r,l as t}from"./index-ce6f8f61.js";import"./Spin-fadc7247.js";const n={__name:"401",setup(e){return(a,c)=>(r(),t(o,{codigo:"Error 401",description:"Unauthorized"}))}};export{n as default};
